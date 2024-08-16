@@ -2,24 +2,28 @@
 
 # dependencies
 /frontend/node_modules
-/frontend/.pnp
-/frontend/.pnp.js
+/frontend/dist
+/frontend/.parcel-cache
+/coverage
 
-# testing
-/frontend/coverage
+# /frontend/.pnp
+# /frontend/.pnp.js
 
-# production
-/frontend/build
+# # testing
+# /frontend/coverage
 
-# misc
-/frontend/.DS_Store
-/frontend/.env.local
-/frontend/.env.development.local
-/frontend/.env.test.local
-/frontend/.env.production.local
+# # production
+# /frontend/build
 
-/frontend/npm-debug.log*
-/frontend/yarn-debug.log*
-/frontend/yarn-error.log*
+# # misc
+# /frontend/.DS_Store
+# /frontend/.env.local
+# /frontend/.env.development.local
+# /frontend/.env.test.local
+# /frontend/.env.production.local
+
+# /frontend/npm-debug.log*
+# /frontend/yarn-debug.log*
+# /frontend/yarn-error.log*
 
 /python_project_1/myenv 
